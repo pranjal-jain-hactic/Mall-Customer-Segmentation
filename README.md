@@ -172,7 +172,7 @@ streamlit run app.py
 
 ### 📈 Cluster Visualization
 
-![Cluster Visualization](images/cluster.png)
+![Cluster Visualization](images/clusters.png)
 
 ---
 
