@@ -154,27 +154,28 @@ streamlit run app.py
 ---
 
 ## 📷 Screenshots
+## 📷 Screenshots
 
-Add screenshots of:
+### 🏠 Home Page
 
-- Home Page
-- Customer Prediction
-- Cluster Visualization
-- Dashboard
-
-inside the **images** folder and update this section.
-
-Example:
-
-```
-images/
-home.png
-prediction.png
-clusters.png
-dashboard.png
-```
+![Home Page](images/home.png)
 
 ---
+
+
+
+### 🤖 Customer Prediction
+
+![Customer Prediction](images/prediction.png)
+
+---
+
+### 📈 Cluster Visualization
+
+![Cluster Visualization](images/cluster.png)
+
+---
+
 
 ## 🔮 Future Improvements
 
